@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "os5d5zkiRCoG5Ml5eQ6LRoU7HmjqMQQvnqaqjJS/s24RUktGrD7EMsFUZ09c7evbd4oe/PBT8QxMv8vwPnY+YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justf\\source\\repos\\SoldierDesktopApp\\SoldierDesktopApp\\SoldierDesktopApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justf\\.nuget\\packages\\csvhelper\\31.0.2\\csvhelper.31.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
